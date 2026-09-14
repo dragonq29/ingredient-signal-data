@@ -1,0 +1,8 @@
+{
+  "name": "ingredient-signal-data",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "validate": "node scripts/validate-products.mjs"
+  }
+}
